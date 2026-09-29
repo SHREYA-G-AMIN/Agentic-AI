@@ -1,0 +1,67 @@
+1 B.Tech Computer Science and Engineering - Regulations 2024 Course details for Semester 5 and Semester 6. Source: Regulations and Curriculum, Nitte (Deemed to be University). SEMESTER 5 Total Notiona
+l Learning Hours for Semester 5: 43 hours per week x 16 weeks = 688 hours (23 credits) Course Code: CS3001-1 Course Name: Computer Network and Communication Course Type: IPCC Credits: 4 Learning Hours
+: Teaching hours per week (L:T:P) = 3:0:2; Total teaching hours = 40+0+26 Course Outcomes: CO1: Illustrate concepts of data communications and networking principles. Make use of NS-2 simulator to buil
+d network topology. CO2: Demonstrate the working of data link layer, the protocols and differentiate the types of LAN. Implement Bit Stuffing or Byte Stuffing, error detecting code using CRC-CCITT, fr
+ame sorting technique and distance vector algorithm in data link layer. CO3: Demonstrate a comprehensive understanding of network layer services and addressing schemes. CO4: Distinguish between variou
+s routing and congestion control algorithms and understand the Quality of Service required for various networking applications. CO5: Illustrate transport layer and application layer protocols. Demonst
+rate the transfer of TCP and UDP packet using NS-2 simulator. Course Code: CS2004-1 Course Name: Operating Systems Course Type: IPCC Credits: 4 Learning Hours: Teaching hours per week (L:T:P) = 3:0:2;
+ Total teaching hours = 40+0+26 Course Outcomes: CO1: Explain the structural components, services, system calls, creation and termination of processes in operating systems. CO2: Explain the multithrea
+ding concepts. Apply various CPU scheduling algorithms to optimize process execution time and CPU utilization. CO3: Illustrate critical section problem, Peterson's solution, and semaphores and apply t
+he Banker's Algorithm to handle deadlock prevention by analyzing and ensuring safe resource allocation. CO4: Demonstrate memory management techniques like paging, page table structure and swapping to 
+optimize memory utilization. 2 CO5: Outline demand paging, copy on write and frame allocation techniques and implement various page replacement algorithms. Apply various disk scheduling algorithms to 
+optimize the storage performance. Course Code: CS3103-1 Course Name: Theory of Computation Course Type: PCC Credits: 3 Learning Hours: Teaching hours per week (L:T:P) = 3:0:0; Total teaching hours = 4
+0+0+0 Course Outcomes: CO1: Design finite automata for different language classes and to apply the procedure to convert non-deterministic finite automata to deterministic finite automata. CO2: Identif
+y the regular expressions for a given languages and minimize the given finite automata. CO3: Discover context-free grammars for different language classes and to identify the ambiguous and unambiguous
+ grammars. CO4: Design Pushdown automata for different language classes. CO5: Translate the context-free grammars to Chomsky Normal Form and design Turing machines for different language classes. Cour
+se Code: CS3603-1 Course Name: Java and Spring Framework Lab Course Type: PCC Lab Credits: 1 Learning Hours: Teaching hours per week (L:T:P) = 0:0:2; Total teaching hours = 0+0+26 Course Outcomes: CO1
+: Design and implement Java Servlets to handle HTTP requests and responses, manage sessions, create dynamic web pages using JavaServer Pages (JSP), and build comprehensive full-stack Spring Boot appli
+cations using Spring MVC. CO2: Build applications that can handle CRUD operations by establishing database connectivity using JDBC and Spring Data JPA, and create and configure RESTful web services wi
+th Spring Boot to perform CRUD operations. Course Code: CSxxxx-1 Course Name: Professional Elective - I (Group 1) Course Type: PEC Credits: 3 Learning Hours: Teaching hours per week (L:T:P) = 3:0:0; T
+otal teaching hours = 40+0+0 Note: One course chosen from the Group 1 pool of professional electives. Course outcomes depend on the elective selected. Course Outcomes: Course Code: HU1006-1 Course Nam
+e: Introduction to IPR Course Type: HSMC Credits: 1 3 Learning Hours: Teaching hours per week (L:T:P) = 1:0:0; Total teaching hours = 15 Course Outcomes: CO1: Comprehend Innovation, its process and so
+urces. CO2: Formulate a business plan based on a business idea in Technology. Course Code: HU1011-1 Course Name: Universal Human Values Course Type: HSMC Credits: 3 Learning Hours: Teaching hours per 
+week (L:T:P) = 3:0:0; Total teaching hours = 40+0+0 Course Outcomes: CO1: Have a better self-exploration and understanding with a capacity to identify the priorities of life with focus on human values
+ having a holistic perspective of physical needs. CO2: Understand and practice living in harmony, co-existence and natural acceptance and also to exhibit Professional Ethics in the workplace. CO3: App
+reciate and connect to the values cherished by our ancestors. CO4: Understand the relevance of Universal Fraternity (Vasudhaiva Kutumbakam) principle to build a healthy society and a nation with unity
+ and integrity. CO5: Accept their personal ethical and moral responsibility to protect and preserve the environment they live in, to maintain the moral health of the society and in nation building. Co
+urse Code: CS3651-1 Course Name: Programming With C++ Course Type: AEC (choose this OR Research Methodology) Credits: 2 Learning Hours: Teaching hours per week (L:T:P) = 1:0:2; Total teaching hours = 
+15+0+26 Course Outcomes: CO1: Apply the basic concepts of C++ for problem solving and build programs using basic constructs of C++. CO2: Develop solutions to problems using the concepts of functions a
+nd its variants, classes and objects. CO3: Apply the concepts of constructors and its variants to demonstrate the object initialization. CO4: Develop programs in C++ that demonstrate code re-usability
+ and polymorphism using the concept of inheritance and operator overloading and utilize concept of exception handling, pointers and virtual functions. Course Code: HU1010-1 Course Name: Research Metho
+dology Course Type: AEC (choose this OR Programming With C++) Credits: 2 Learning Hours: Teaching hours per week (L:T:P) = 2:0:0; Total teaching hours = 25 Course Outcomes: CO1: Demonstrate proficienc
+y in research formulation, design, and problem-solving, applying various methodologies and techniques to effectively address research questions and hypotheses. 4 CO2: Acquire competence in collecting,
+ validating, and analyzing data using appropriate methods and statistical tools, enabling them to draw meaningful conclusions and insights from research datasets. CO3: Comprehend the role of soft comp
+uting techniques such as evolutionary algorithms and statistical software in optimizing research processes, effectively utilizing computational tools to enhance research efficiency and outcomes. CO4: 
+Develop a thorough understanding of research ethics, intellectual property rights, and scholarly publishing standards, ensuring the responsible and ethical conduct of research and the dissemination of
+ findings through reputable channels while upholding integrity and accountability. Course Code: HU1007-1 Course Name: Social Connect and Responsibility Course Type: AEC Credits: 1 Learning Hours: Teac
+hing hours per week (L:T:P) = 1:0:0; Total teaching hours = 15 Course Outcomes: CO1: Comprehend Rural Society and its Economy. CO2: Identify the working of Rural Administration and different rural sch
+emes. Course Code: UM1003-1 Course Name: Employability Skill Development Course Type: AEC Credits: 1 Learning Hours: Teaching hours per week (L:T:P) = 1:0:0; Total teaching hours = 15 Note: Assessed b
+y CIE only (50 marks); no SEE. Course Outcomes: CO1: Analyse and answer the quantitative multiple-choice questions. CO2: Analyse and answer the analytical and logical questions and demonstrate good co
+mmunication skills. 5 SEMESTER 6 Total Notional Learning Hours for Semester 6: 39 hours per week x 16 weeks = 624 hours (21 credits) Course Code: CS2003-1 Course Name: Machine Learning Course Type: IP
+CC Credits: 4 Learning Hours: Teaching hours per week (L:T:P) = 3:0:2; Total teaching hours = 40+0+26 Course Outcomes: CO1: Explain the importance, types and applications of Machine Learning. CO2: App
+ly regression techniques and KNN to build predictive models for classifying or predicting target variables. CO3: Apply various supervised learning algorithms like Decision tree, Naive Bayes to build p
+redictive models for classifying or predicting target variables. CO4: Solve real world problems using ANN, Random forest algorithm. CO5: Apply Unsupervised learning and model evaluation metrics to ana
+lyze data. Explain Reinforcement learning concepts in machine learning. Course Code: CS3101-1 Course Name: Compiler Design Course Type: PCC Credits: 3 Learning Hours: Teaching hours per week (L:T:P) =
+ 3:0:0; Total teaching hours = 40+0+0 Course Outcomes: CO1: Explain the various phases of compiler. Build the regular expressions and transition diagrams by applying the knowledge of finite automata. 
+Develop and implement tokenizer using high level programming language and LEX Tool. CO2: Develop top down parsers by applying the knowledge of context free grammar and parsing algorithms. CO3: Constru
+ct LR item sets by applying the knowledge of Closure and Go to functions. Make use of SLR, CLR and LALR parsing tables to parse the language constructs. Design and implement parser using high level pr
+ogramming language and YACC Tool. CO4: Illustrate Syntax-Directed translation scheme for engineering problems. Apply three address code representations to generate an intermediate code for assignment 
+statement and Boolean expressions. CO5: Build a code generator for the intermediate code by applying the knowledge of Basic blocks, address, register descriptors and next use information. Apply code o
+ptimization techniques to optimize the target code. Course Code: CS3602-1 Course Name: Compiler Design Lab Course Type: PCC Lab Credits: 1 Learning Hours: Teaching hours per week (L:T:P) = 0:0:2; Tota
+l teaching hours = 0+0+26 6 Course Outcomes: CO1: Design and develop lexers using high-level programming languages and the LEX tool to analyze and tokenize input strings based on defined regular expre
+ssions and transition diagrams. CO2: Design and develop parsers using the YACC tool to process input strings according to context-free grammars and parsing algorithms. Course Code: CSxxxx-1 Course Nam
+e: Professional Elective - II (Group 1) Course Type: PEC Credits: 3 Learning Hours: Teaching hours per week (L:T:P) = 3:0:0; Total teaching hours = 40+0+0 Note: One course chosen from the Group 1 pool
+ of professional electives. Course outcomes depend on the elective selected. Course Outcomes: Course Code: CSxxxx-1 Course Name: Professional Elective - III (Group 2) Course Type: PEC Credits: 3 Learn
+ing Hours: Teaching hours per week (L:T:P) = 3:0:0; Total teaching hours = 40+0+0 Note: One course chosen from the Group 2 pool of professional electives. Course outcomes depend on the elective select
+ed. Course Outcomes: Course Code: XXX5XX-1 Course Name: Open Elective - I Course Type: OEC Credits: 3 Learning Hours: Teaching hours per week (L:T:P) = 3:0:0; Total teaching hours = 40+0+0 Note: Chose
+n from the open-elective pool offered that semester. Course outcomes depend on the elective selected. Course Outcomes: Course Code: MG1003-1 Course Name: Management & Entrepreneurship Course Type: HSM
+C Credits: 3 Learning Hours: Teaching hours per week (L:T:P) = 3:0:0; Total teaching hours = 39 Course Outcomes: CO1: Describe the field of management, the task of the manager, planning, and steps in 
+decision making. CO2: Discuss the structure of the organization, importance of staffing, leadership styles, modes of communication, techniques of coordination, and importance of managerial control in 
+the business. CO3: Describe the concepts of entrepreneurship and a businessman's social responsibilities towards different groups. CO4: Develop an understanding of the role of SSIs in the development 
+of country and state/central level institutions/agencies supporting business enterprises. 7 CO5: Apply the concepts of financial management for effective use in enterprises. Course Code: HU1008-1 Cour
+se Name: Life Skills for Engineers Course Type: AEC Credits: 1 Learning Hours: Teaching hours per week (L:T:P) = 1:0:0; Total teaching hours = 15 Course Outcomes: CO1: Develop proficiency in vital lif
+e skills like time management, stress management, health management, and addiction awareness to effectively navigate personal and professional challenges, promoting their well-being and success. CO2: 
+Cultivate a growth mindset, prioritizing continuous learning and collaboration, understanding the significance of ongoing skill development in adapting to changes in technology and the job market, and
+ honing teamwork and collaboration abilities crucial for success in diverse professional settings. Course Code: (no code listed) Course Name: Introduction to DevOps Course Type: Value-added course (PP
+ / NP) Credits: 0 (non-credit, graded Pass/Not Pass) Learning Hours: Teaching hours per week (L:T:P) = 0:0:2; Total teaching hours = 0+0+26 Note: Course outcomes are not listed in the syllabus. Topics
+: overview of DevOps; Git; Git, Jenkins and Maven integration; continuous integration with Jenkins; Docker; Kubernetes; provisioning; DevOps on cloud. Course Outcomes:
